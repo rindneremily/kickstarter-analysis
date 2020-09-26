@@ -3,6 +3,7 @@
 ## Overview of Project
 ### Purpose
 The data presented in the Kickstarter challenge compared products across the world that were hoping to successfully enter the market. Analyzing the outcomes, deadlines, and donations allowed for a more in depth understanding of each product. In order to do so, graphs and formulas were utilized to portray extrapolations from the data.
+[kickstarter analysis](xlsx/data-1-1-3-StarterBook.xlsx.zip)
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 In this section, a new sheet with a chart and corresponding graph were made. My first attempt at this graph was unsuccessful. I had not properly filtered the data to only include the theater category. I also incorrectly placed some fields in the axis rather than the filter. The trouble I had creating this chart allowed me to experiment with the placement of fields in the PivotChart and how it would affect the outcome. Once I cleared the existing filters on the Kickstarter I was able to focus on the theater category.
